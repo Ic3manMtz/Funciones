@@ -1,5 +1,4 @@
 //Autores.- Martinez Buenrostro Jorge Rafael 
-//Veamos si este cambio pasa a git
 
 #include <stdio.h>
 #include <stdlib.h>
